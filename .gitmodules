@@ -1,0 +1,6 @@
+[submodule "cpp-project"]
+	path = cpp-project
+	url = ssh://git@github.com/ssciwr/cookiecutter-cpp-project.git
+[submodule "docker-science"]
+	path = docker-science
+	url = git@github.com:docker-science/cookiecutter-docker-science.git
